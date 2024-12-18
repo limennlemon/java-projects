@@ -16,7 +16,7 @@ public class CalculateGratuity {
         // Prompt user to enter subtotal and gratuity rate
         System.out.print("Enter the subtotal: "  );
         double subTotal = input.nextDouble();
-        System.out.print("Enter the gratuity rate (as a                        percentage): "  );
+        System.out.print("Enter the gratuity rate (as a percentage): "  );
         double gratuityRate = input.nextDouble();
         
         // Computes the gratuity amount and total cost
