@@ -20,8 +20,7 @@ public class CalculateInvestment {
         
         // Computes future investment value based 
         double futureInvestmentValue = investmentAmount * Math.pow((1.0 + monthlyInterestRate), (numberOfYears * 12));
-        
-        
+
         // Display future value of the investment
          System.out.printf("The future value of your investment is: $%.2f\n", futureInvestmentValue);
     }
