@@ -1,0 +1,7 @@
+Brown,Karen 21 42 Freshman
+James,Rachel 50 100 Sophomore
+King,Linda 66 132 Junior
+Carey,Rob 93 184 Senior
+Dawson,Glenn 21 42 Master's
+Long,Pamela 21 42 Doctorate
+
